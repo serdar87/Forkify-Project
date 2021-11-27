@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
- This a Project from The Complete JavaScript Course by Jonas Schmedtmann.
+ This Project is from The Complete JavaScript Course by Jonas Schmedtmann.
 </p>
 
 ## Built With
