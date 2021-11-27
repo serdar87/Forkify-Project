@@ -4,6 +4,18 @@
 </p>
 
 <p align="center">
- Recipe Searching Application
+ This a Project from The Complete JavaScript Course by Jonas Schmedtmann.
 </p>
+
+## Built With
+
+-Vanilla Js
+
+-
+
+-Model View Controller Architecture
+
+-[Forkify API](https://forkify-api.herokuapp.com/)
+
+
 
